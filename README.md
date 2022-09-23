@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NiiSV811
-- 👀 I’m interested in becoming in a developer :)
+- 👋 Hi, I’m Nico
+- 👀 I’m interested in becoming in a full Stack developer :)
 - 🌱 I’m currently learning Python ^w^
 
 
